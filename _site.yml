@@ -1,0 +1,10 @@
+name: "My Notebook"
+navbar:
+  title: "My Notebook"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Analysis"
+      href: analysis.html
